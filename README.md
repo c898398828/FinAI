@@ -9,6 +9,24 @@
 - 业务数据库：MySQL（默认）
 - 系统配置持久化：SQLite（`backend/data/system_config.db`）
 - AI：OpenAI 兼容接口（DeepSeek / 通义 / GLM 等）
+- 
+## 系统展示
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/53080953-31e3-462e-aadd-dc81c36b18d9" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/c27e54d1-864b-462b-aacd-833fca77f07b" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/2300e576-cec3-4df2-b655-2ac9e50cf636" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/91fd3745-48ff-4dd3-a771-0c6339fe2d51" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/1be797a8-5204-45f3-b42a-247ca2bce5d6" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/af2e7065-f9b0-47d0-8875-993f6f90c013" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/306929ea-76c1-4003-abc7-239a393f747f" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/72f07208-e006-4994-b9ec-3a6c8bcf5b0b" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/4d1ce5a2-e1b1-4328-86da-bfdf9ca925bf" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/3bf0f297-f8ee-4bc6-837a-b491065eefbd" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/a7f8b22f-9854-466a-842e-b733198d7942" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/f0b24a79-0444-47bd-98c1-16d31e21178d" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/b54573fa-1e5b-44f7-9352-07c948ffa25c" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/52cb35ae-d074-4ed3-8911-056a4d6414da" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/bdb596ce-08c1-479a-a187-3d15a0a66fc6" />
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/71d06f82-d235-4ea0-b30d-190e97136c9e" />
 
 ## 系统详细功能
 
