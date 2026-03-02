@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python:*)",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(.venv/Scripts/python.exe:*)"
+    ]
+  }
+}
